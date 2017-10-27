@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Itunes Top Paid Apps</string>
+    <string name="switch_on">Ascending</string>
+    <string name="switch_off">Descending</string>
+    <string name="filtered">Filtered Apps:</string>
+    <string name="price">Price: USD</string>
+    <string name="load">Loading...</string>
+</resources>
